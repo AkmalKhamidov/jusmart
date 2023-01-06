@@ -1,0 +1,101 @@
+.product:hover{
+    transition: 0.5s;
+    transform: scale(1.02);
+}
+
+.product-link{
+    color: #000 !important;
+    text-decoration: none
+}
+
+.jusmart{
+    text-decoration: none;
+}
+
+.previous{
+    text-decoration: none;
+}
+
+.next{
+    text-decoration: none;
+}
+
+.email{
+    padding-bottom: 1%;
+
+}
+
+.card{
+    width: 400px;
+    height: 600px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 1400px) {
+    .card{
+        width: 530px;
+        height: 730px;
+    }
+    .card-img-top {
+        width: 100%;
+        height: 570px;
+    }
+    /* стили для больших планшетов — начало */
+}
+
+@media screen and (max-width: 1200px) {
+    .card{
+        width: 910px;
+        height: 910px;
+    }
+    .card-img-top {
+        width: 100%;
+        height: 700px;
+    }
+    /* стили для больших планшетов — начало */
+}
+
+@media screen and (max-width: 991px) {
+    .card{
+        width: 662px;
+        height: 762px;
+    }
+    /* стили для больших планшетов — начало */
+    .card-img-top {
+        width: 100%;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    /* стили для средних планшетов — начало */
+    .card{
+        width: 500px;
+        height: 674px;
+    }
+    .card-img-top {
+        width: 100%;
+        height: 550px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    /* стили для телефонов — начало */
+
+}
+
+
+
+.card-group [class*='col-'] {
+    float:none;
+}
+
+.password{
+    padding-bottom: 2%;
+}
+
