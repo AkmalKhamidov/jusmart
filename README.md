@@ -13,3 +13,6 @@ Spring проект с использованием: **PostgreSQL, ftlh, JPA, CR
 ![image](https://user-images.githubusercontent.com/111600736/211008631-7ad64011-5061-4d27-94a2-799c0bb172cc.png)
 ![image](https://user-images.githubusercontent.com/111600736/211008658-c81677a4-bb45-4be2-bd02-b43403da3633.png)
 
+jenkins credentials:
+login: administrator; pwd: administrator123
+login: developer; pwd: developer123
