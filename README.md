@@ -2,7 +2,7 @@
 jusmart - платформа для продажи и купли товаров. Сделано для обучающих целях.
 
 
-Spring проект с использованием: **MySQL, ftlh, JPA, CRUD, Authorization-security, csrf, bootstrap.**
+Spring проект с использованием: **PostgreSQL, ftlh, JPA, CRUD, Authorization-security, csrf, bootstrap.**
 Скриншоты: 
 
 ![image](https://user-images.githubusercontent.com/111600736/211007242-ec06dc48-7fe4-41c3-9a67-82ba3483b07e.png)
